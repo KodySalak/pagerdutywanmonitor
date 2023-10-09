@@ -1,3 +1,5 @@
+#Version 1.0
+#Created By Kody Salak
 #Variables
 $ExpectedWANIP = "<PrimaryWANIPHere>"
 $PDAPIKey = "<YourPDKeyHere>"
